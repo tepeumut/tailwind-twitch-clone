@@ -1,6 +1,8 @@
 # tailwind-twitch-clone
 
 Twitch Clone with TailwindCSS and NuxtJS
+
+Demo: [https://tailwind-twitch-clone.vercel.app/][https://tailwind-twitch-clone.vercel.app/]
 ## Build Setup
 ```bash
 # install dependencies
@@ -17,3 +19,5 @@ $ npm run start
 $ npm run generate
 ```
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+[https://tailwind-twitch-clone.vercel.app/]: https://tailwind-twitch-clone.vercel.app/
